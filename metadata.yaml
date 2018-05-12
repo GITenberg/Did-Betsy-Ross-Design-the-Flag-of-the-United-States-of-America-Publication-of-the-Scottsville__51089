@@ -1,10 +1,16 @@
 _repo: Did-Betsy-Ross-Design-the-Flag-of-the-United-States-of-America-Publication-of-the-Scottsville__51089
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51089-h/images/cover.jpg
 creator:
   author:
     agent_name: Hanford, Franklin
     gutenberg_agent_id: '46238'
     url: http://www.gutenberg.org/2009/agents/46238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51089#Did-Betsy-Ross-Design-the-Flag-of-the-United-States-of-America-Publication-of-the-Scottsville_
 gutenberg_issued: '2016-01-31'
 gutenberg_type: Text
 identifiers:
