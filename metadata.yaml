@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Did Betsy Ross Design the Flag of the United States of America?
 
   Publication of the Scottsville Literary Society'
